@@ -1,0 +1,1 @@
+Data Source=ALEX\SQLEXPRESS;Initial Catalog=UchetTelecom;Integrated Security=True
